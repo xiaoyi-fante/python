@@ -1,9 +1,0 @@
-csv_body='''\
-id,name,age,comment
-1,zs,18,"i`m 18
-2,ls,20,"this is a ""test"" string.
-3,ww,23,"你好
-
-
-计算机"
-'''
